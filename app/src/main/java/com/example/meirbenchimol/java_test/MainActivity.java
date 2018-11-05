@@ -51,5 +51,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         android.util.Log.d(ACTIVITY_LIFE_TAG , "onCreate()");
+        //lllldfklsdflf
     }
 }
